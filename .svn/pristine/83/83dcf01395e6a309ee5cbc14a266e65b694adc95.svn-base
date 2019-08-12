@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/public.css"/>
+	<style type="text/css">
+	#login{width:380px;margin:20px auto;background-color: #ffffff;padding:30px 30px 20px;border:1px solid #333;}
+	#login .in{width:320px;}
+	#login .in p:nth-child(1){margin-bottom:10px; overflow:hidden; width:320px;}
+	#login .in p:nth-child(2){padding:5px 0;width:320px;}
+	#login .in p:nth-child(2) input{border: 1px solid #d51938;height:26px;line-height:26px;padding:3px 40px 3px 5px;width:273px;color:#b6b6b6;}
+	#login .in p:nth-child(3){margin-bottom:15px;width:320px;}
+	#login .in p:nth-child(3) span{font:12px/14px "";color:#f00;}
+	#login .in p:nth-child(4){margin-bottom:15px;width:320px;}
+	#login .in p:nth-child(4) input{border: 1px solid #dbdbdb;height: 26px;line-height: 26px;padding:3px 40px 3px 5px;width:273px;color:#b6b6b6;}
+	#login .in p:nth-child(5){margin-bottom:15px;width:320px;}
+	#login .in p:nth-child(5) input{width:90px;height:22px;padding:3px 5px;float:left;margin-right: 10px;}
+	#login .in p:nth-child(5) s{float:left;width:80px;height:28px;cursor:pointer;border:1px solid #eee;margin-right: 20px;text-align:center;font:14px/28px "";color:#999;}
+	#login .in p:nth-child(5) span{font:14px/28px "";color:#666;cursor:pointer;}
+	#login .in p:nth-child(6){margin-bottom:15px;width:320px;overflow: hidden;}
+	#login .in p:nth-child(6) label{float:left;font:12px/28px "";}
+	#login .in p:nth-child(6) label input{float:left;margin:8px 5px 0 0;}
+	#login .in p:nth-child(6) a{float:right;font:14px/28px "";color:#666;}
+	#login .in p:nth-child(7){margin-bottom:15px;width:320px;position:relative;}
+	#login .in p:nth-child(7) input{width:320px;background-color:#d51938;color:#fff;font:16px/36px "";height: 36px;letter-spacing: 5px;}
+	#login .in p:nth-child(7) span{position:absolute;top:40px;left:30px;font:16px/20px "";width:320px;color:#f00;}
+	</style>
+</head>
+<body>
+	<div id="login">
+		<div class="in">
+			<form>
+				<p><span>登录优个网，尽享运动精彩！</span></p>
+				<p><input type="text" id="user" placeholder="用户名/手机号/邮箱" required=true></p>
+				<p><span>*温馨提示：已绑定过手机和邮箱,可输入手机号或邮箱</span></p>
+				<p><input type="password" id="pass" placeholder="请输入密码" required=true></p>
+				<p>
+					<input type="text" id="yzm" placeholder="请输入验证码" required=true>
+					<s class="s">1111</s>
+					<span>看不清楚换一张</span>
+				</p>
+				<p>
+					<label for="onoff"><input type="checkbox" id="onoff">记住用户名和密码7天</label>
+					<a href="##">忘记密码</a>
+				</p>
+				<p class="le">
+					<input id="btn" type="submit" value="登录">
+					<span></span>
+				</p>
+			</form>	
+		</div>
+	</div>
+</body>
+<script src="libs/jquery.1.12.4.js"></script>
+<script type="text/javascript">
+	class Login{
+        constructor(){
+            // 登录的接口
+            this.url = "http://api.icodeilife.cn:81/user";
+            // 获取元素
+            this.user = $("#user");
+            this.pass = $("#pass");
+            this.btn = $("#btn");
+            this.state = $(".le span");
+            // 绑定点击事件
+            this.addEvent();
+        }
+        addEvent(){
+            var that = this;
+            this.btn.click(function(){
+                // 开启ajax
+                that.load()
+            })
+        }
+        load(){
+            // 请求登录接口
+            $.ajax({
+                url:this.url,
+                data:{
+                    type:"login",
+                    user:this.user.val(),
+                    pass:this.pass.val(),
+                },
+                success:(res)=>{
+                    // 请求成功之后，解析数据，根据数据的返回信息，决定不同的状态
+                    this.res = JSON.parse(res);
+                    // console.log(res);
+                    if(this.res.code == 2){
+                        this.state.html("帐号密码不符，请<a href='login.html'>重新登录</a>")
+                    }else if(this.res.code == 1){
+                        // 登录成功之后，存储状态
+                        this.setState()
+
+                        this.state.html("登录成功,5秒后跳转到<a href='index.html'>首页</a>");
+                        setTimeout(() => {
+                            location.href="index.html";
+                        }, 5000);
+                        console.log(res)
+                    }else if(this.res.code == 0){
+                        this.state.html("不存在该用户信息，请<a href='register.html'>注册</a>")
+                    }
+                }
+            })
+        }
+        setState(){
+            // 将当前登录成功后返回的用户信息作为登录成功的状态
+            localStorage.setItem("loginUser",JSON.stringify(this.res.msg));
+        }
+    }
+    
+    new Login();
+</script>
+</html>

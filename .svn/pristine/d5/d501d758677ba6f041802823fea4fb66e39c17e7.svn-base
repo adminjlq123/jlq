@@ -1,0 +1,2829 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/public.css"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+	<!--头部-->
+	<div id="top" class="floor">
+		<div class="margin">
+			<div class="left">
+				<span>您好，欢迎光临优个网！</span>
+				<a href="login.html">请登录</a>
+				<a href="##">注册有惊喜</a>
+				<a href="##">驴友铺子</a>
+				<a href="##">OMO线下店</a>
+			</div>
+			<ul class="right">
+				<li>
+					<div class="over1">
+						<i class="integra"></i>
+						<a href="##">我的优个</a>
+						<i class="integra"></i>
+					</div>
+					<div class="hide1">
+						<p>
+							<span>您好，欢迎光临优个网！</span>
+							<a href="##">退出</a>
+						</p>
+						<div class="fox">
+							<dl>
+								<dd><a href="##">我的订单</a></dd>
+								<dd><a href="##">我的评论</a></dd>
+								<dd><a href="##">我的提问</a></dd>
+								<dd><a href="##">收藏的商品</a></dd>
+								<dd><a href="##">余额</a></dd>
+							</dl>
+							<dl>
+								<dd><a href="##">我的优币</a></dd>
+								<dd><a href="##">积分升级</a></dd>
+								<dd><a href="##">我的优惠劵</a></dd>
+								<dd><a href="##">免运费查询</a></dd>
+								<dd><a href="##">鸡毛信</a></dd>
+							</dl>
+						</div>
+					</div>
+				</li>
+				<li>
+					<i class="integra"></i>
+					<span>友圈我的优</span>
+				</li>
+				<li>
+					<div class="over3">
+						<i class="integra"></i>
+						<a href="#">手机优个</a>
+						<i class="integra"></i>
+					</div>
+					<dl class="hide3">
+						<dd>
+							<img src="img/v1.png"/>
+							<u>
+								<p>下载优个运动app</p>
+								<p>专享价，包裹物流随时查</p>
+								<i class="integra"></i>
+								<i class="integra"></i>
+							</u>
+						</dd>
+						<dd>
+							<img src="img/v2.png"/>
+							<u>
+								<span>优个网订阅号</span>
+								<p>随时随地查看运动知识</p>
+							</u>
+						</dd>
+						<dd>
+							<img src="img/v3.png"/>
+							<u>
+								<span>优个网服务号</span>
+								<p>在微信段直接购买装备</p>
+							</u>
+						</dd>
+					</dl>
+				</li>
+				<li>
+					<span>帮助中心</span>
+				</li>
+				<li>
+					<span>联系客服</span>
+				</li>
+				<li>
+					<a href="#">优个热线</a>
+					<div class="hide6">
+						<b>服务热线：400-0996-400</b>
+						<b>售后专线：010-51261980</b>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!--header-->
+	<header>
+		<div class="margin">
+			<a class="logo"><img src="img/logo.gif"/></a>
+			<div class="cen">
+				<div class="inp">
+					<input type="text" class="txt" value="天斧99" />
+					<input type="submit" class="sub" value="搜索" />
+				</div>
+				<div class="bot">
+					<span style="color:#f00;">热门搜索：</span>
+					<a href="" style="color:#f00;">斯帝卡立减</a>
+					<span >|</span>
+					<a href="" style="color:#f00;">疾光700</a>
+					<span>|</span>
+					<a href="" style="color:#f00;">天斧99</a>
+					<span>|</span>
+					<a href="">羽球包邮</a>
+					<span>|</span>
+					<a href="">蝴蝶王</a>
+					<span>|</span>
+					<a href="">玫瑰套</a>
+					<span>|</span>
+					<a href="">纳米7</a>
+					<span>|</span>
+					<a href="">价格表</a>
+				</div>
+			</div>
+			<div class="rig">
+				<div class="over7">
+					<b>0</b>
+					<i class="integra"></i>
+					<span>去购物车结算</span>
+				</div>
+				<div class="hide7">
+					<div class="kuang">
+						<div class="le">
+							<u>共<span>0</span>件商品</u>
+							<u>共计 <span>￥</span><span>0.00</span></u>
+						</div>
+						<div class="ri">
+							<a href="">去购物车结算</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p>
+				<a href="">正品行货</a>
+				<span>|</span>
+				<a href="">满199元免运费</a>
+			</p>
+		</div>
+	</header>
+	<nav>
+		<div class="margin">
+			<div class="all">
+				<div class="top">
+					<span>全部商品</span>
+					<i></i>
+				</div>
+				<ul class="abs">
+<!--111111111111111111111111第一个li-->
+					<li>
+						<div class="in">
+							<h3>
+								<i class="integra"></i>
+								<a href="goods.html" target="_blank">羽毛球装备</a>
+								<i class="integra"></i>
+							</h3>
+							<p>
+								<a href="##">羽毛球拍</a>
+								<a href="##">羽毛球鞋</a>
+								<a href="##">羽毛球</a>
+							</p>
+						</div>
+						<div class="hid1">
+							<div class="tt">
+								<dl>
+									<dt><a href="">羽毛球拍</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+										<a href="">凯胜</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战拍</a>
+										<a href="">入门级</a>
+										<a href="">进阶中级</a>
+										<a href="">专业高级</a>
+										<a href="">暴力进攻</a>
+										<a href="">攻守兼备</a>
+										<a href="">速度灵活</a>
+									</dd>
+								</dl>
+								
+								<dl>
+									<dt><a href="">羽毛球鞋</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战靴</a>
+										<a href="">199元以下</a>
+										<a href="">团队款</a>
+										<a href="">稳定型</a>
+										<a href="">速度型</a>
+										<a href="">宽宣型</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球服</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">99元以下</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女皇战袍</a>
+										<a href="">团队款</a>
+										<a href="">短裤</a>
+										<a href="">短袖上衣</a>
+										<a href="">国羽战衣</a>
+										<a href="">明星赞助款</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球</a></dt>
+									<dd>
+										<a href="">亚狮龙</a>
+										<a href="">诺克塞斯</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										
+									</dd>
+									<dd>
+										<a href="">50-70元</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">俱乐部特供</a>
+										<a href="">尼龙球</a>
+										<a href="">耐打球</a>
+										<a href="">国际比赛用球</a>
+										<a href="">76速</a>
+										<a href="">77速</a>
+										<a href="">78速</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球包</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女包</a>
+										<a href="">团队款</a>
+										<a href="">球星赞助款</a>
+										<a href="">双肩包</a>
+										<a href="">3只装</a>
+										<a href="">6只装</a>
+										<a href="">9只装</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球线</a></dt>
+									<dd>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">波力</a>
+										<a href="">高神</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">暴力型</a>
+										<a href="">控球型</a>
+										<a href="">BG65</a>
+										<a href="">BG95</a>
+										<a href="">BG80P</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球配件</a></dt>
+									<dd>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">泰昂</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">羽毛球袜</a>
+										<a href="">光面手胶</a>
+										<a href="">压纹手胶</a>
+										<a href="">打孔手胶</a>
+										<a href="">龙骨手胶</a>
+										<a href="">毛巾手胶</a>
+										<a href="">内握手胶</a>
+										<a href="">毛巾</a>
+										<a href="">鞋垫</a>
+										<a href="">水壶</a>
+										<a href="">球拍DIY</a>
+									</dd>
+								</dl>
+							</div>
+							<div class="bb">
+								<p>推荐品牌</p>
+								<dl>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+								</dl>
+								<p><a href="">更多品牌</a></p>
+							</div>
+						</div>
+					</li>
+<!--22222222222222222222第二个li-->					
+					<li>
+						<div class="in">
+							<h3>
+								<i class="integra"></i>
+								<a href="goods.html" target="_blank">乒乓球装备</a>
+								<i class="integra"></i>
+							</h3>
+							<p>
+								<a href="##">地板</a>
+								<a href="##">套胶</a>
+								<a href="##">配件</a>
+								<a href="##">乒鞋</a>
+							</p>
+						</div>
+						<div class="hid2">
+							<div class="tt">
+								<dl>
+									<dt><a href="">专业套餐</a></dt>
+									<dd>
+										<a href="">爆款套餐</a>
+										<a href="">特价</a>
+										<a href="">球星御用</a>
+										<a href="">狂省套餐</a>
+										<a href="">初学</a>
+										<a href="">弧圈结合快攻</a>
+									</dd>
+									<dd>
+										<a href="">快攻结合弧圈</a>
+										<a href="">直拍横打</a>
+										<a href="">攻削结合</a>
+										<a href="">成品拍</a>
+									</dd>
+								</dl>
+								
+								<dl>
+									<dt><a href="">乒乓底板</a></dt>
+									<dd>
+										<a href="">蝴蝶</a>
+										<a href="">斯帝卡</a>
+										<a href="">红双喜</a>
+										<a href="">娇猛</a>
+										<a href="">多尼克</a>
+										<a href="">亚萨卡</a>
+										<a href="">银河</a>
+									</dd>
+									<dd>
+										<a href="">畅销排名</a>
+										<a href="">单桧一族</a>
+										<a href="">纤维底板</a>
+										<a href="">星球战拍</a>
+										<a href="">弧圈机器</a>
+										<a href="">YEO</a>
+										<a href="">蝴蝶王</a>
+										<a href="">5层纯木</a>
+										<a href="">7层纯木</a>
+										<a href="">碳板</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">乒乓套胶</a></dt>
+									<dd>
+										<a href="">蝴蝶</a>
+										<a href="">红双喜</a>
+										<a href="">娇猛</a>
+										<a href="">729</a>
+										<a href="">斯帝卡</a>
+										<a href="">多尼克</a>
+										<a href="">银河</a>
+										<a href="">岸度</a>
+									</dd>
+									<dd>
+										<a href="">畅销排名</a>
+										<a href="">特价</a>
+										<a href="">反胶套胶</a>
+										<a href="">长胶套胶</a>
+										<a href="">生胶套胶</a>
+										<a href="">生胶套服</a>
+										<a href="">正胶套服</a>
+										<a href="">T05</a>
+										<a href="">狂飙3</a>
+										<a href="">NEO狂省</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">乒乓球鞋</a></dt>
+									<dd>
+										<a href="">蝴蝶</a>
+										<a href="">美津浓</a>
+										<a href="">爱世克斯</a>
+										<a href="">优拉</a>
+										<a href="">斯帝卡</a>
+										<a href="">李宁</a>
+									</dd>
+									<dd>
+										<a href="">畅销品牌</a>
+										<a href="">特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">乒乓球包</a></dt>
+									<dd>
+										<a href="">蝴蝶</a>
+										<a href="">斯帝卡</a>
+										<a href="">阳光</a>
+										<a href="">三维</a>
+										<a href="">尼塔库</a>	
+									</dd>
+									<dd>
+										<a href="">最新球包</a>
+										<a href="">特价</a>
+										<a href="">单层拍套</a>
+										<a href="">双层拍套</a>
+										<a href="">双肩背包</a>
+										<a href="">大旅行包</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">乒乓球服</a></dt>
+									<dd>
+										<a href="">蝴蝶</a>
+										<a href="">斯帝卡</a>
+										<a href="">优拉</a>
+										<a href="">岸度</a>
+										<a href="">李宁</a>
+										<a href="">多尼克</a>
+									</dd>
+									<dd>
+										<a href="">畅销排名</a>
+										<a href="">特价</a>
+										<a href="">其他</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">辅具配件</a></dt>
+									<dd>
+										<a href="">乒乓球</a>
+										<a href="">特价</a>
+										<a href="">水饺大全</a>
+										<a href="">护理专家</a>
+										<a href="">毛巾</a>
+										<a href="">球袜</a>
+									</dd>
+								</dl>	
+							</div>
+							<div class="bb">
+								<p>推荐品牌</p>
+								<dl>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+								</dl>
+								<p><a href="">更多品牌</a></p>
+							</div>
+						</div>
+					</li>
+<!--33333333333333333333333第三个li-->					
+					<li>
+						<div class="in">
+							<h3>
+								<i class="integra"></i>
+								<a href="goods.html" target="_blank">跑步装备</a>
+								<i class="integra"></i>
+							</h3>
+							<p>
+								<a href="##">跑步鞋</a>
+								<a href="##">跑步服</a>
+								<a href="##">亚瑟士跑鞋</a>
+							</p>
+						</div>
+						<div class="hid3">
+							<div class="tt">
+								<dl>
+									<dt><a href="">羽毛球拍</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+										<a href="">凯胜</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战拍</a>
+										<a href="">入门级</a>
+										<a href="">进阶中级</a>
+										<a href="">专业高级</a>
+										<a href="">暴力进攻</a>
+										<a href="">攻守兼备</a>
+										<a href="">速度灵活</a>
+									</dd>
+								</dl>
+								
+								<dl>
+									<dt><a href="">羽毛球鞋</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战靴</a>
+										<a href="">199元以下</a>
+										<a href="">团队款</a>
+										<a href="">稳定型</a>
+										<a href="">速度型</a>
+										<a href="">宽宣型</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球服</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">99元以下</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女皇战袍</a>
+										<a href="">团队款</a>
+										<a href="">短裤</a>
+										<a href="">短袖上衣</a>
+										<a href="">国羽战衣</a>
+										<a href="">明星赞助款</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球</a></dt>
+									<dd>
+										<a href="">亚狮龙</a>
+										<a href="">诺克塞斯</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										
+									</dd>
+									<dd>
+										<a href="">50-70元</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">俱乐部特供</a>
+										<a href="">尼龙球</a>
+										<a href="">耐打球</a>
+										<a href="">国际比赛用球</a>
+										<a href="">76速</a>
+										<a href="">77速</a>
+										<a href="">78速</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球包</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女包</a>
+										<a href="">团队款</a>
+										<a href="">球星赞助款</a>
+										<a href="">双肩包</a>
+										<a href="">3只装</a>
+										<a href="">6只装</a>
+										<a href="">9只装</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球线</a></dt>
+									<dd>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">波力</a>
+										<a href="">高神</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">暴力型</a>
+										<a href="">控球型</a>
+										<a href="">BG65</a>
+										<a href="">BG95</a>
+										<a href="">BG80P</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球配件</a></dt>
+									<dd>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">泰昂</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">羽毛球袜</a>
+										<a href="">光面手胶</a>
+										<a href="">压纹手胶</a>
+										<a href="">打孔手胶</a>
+										<a href="">龙骨手胶</a>
+										<a href="">毛巾手胶</a>
+										<a href="">内握手胶</a>
+										<a href="">毛巾</a>
+										<a href="">鞋垫</a>
+										<a href="">水壶</a>
+										<a href="">球拍DIY</a>
+									</dd>
+								</dl>
+							</div>
+							<div class="bb">
+								<p>推荐品牌</p>
+								<dl>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+								</dl>
+								<p><a href="">更多品牌</a></p>
+							</div>
+						</div>
+					</li>
+<!--4444444444444444444444第四个li-->					
+					<li>
+						<div class="in">
+							<h3>
+								<i class="integra"></i>
+								<a href="goods.html" target="_blank">户外装备</a>
+								<i class="integra"></i>
+							</h3>
+							<p>
+								<a href="##">户外服装</a>
+								<a href="##">户外鞋</a>
+								<a href="##">露营装备</a>
+							</p>
+						</div>
+						<div class="hid4">
+							<div class="tt">
+								<dl>
+									<dt><a href="">羽毛球拍</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+										<a href="">凯胜</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战拍</a>
+										<a href="">入门级</a>
+										<a href="">进阶中级</a>
+										<a href="">专业高级</a>
+										<a href="">暴力进攻</a>
+										<a href="">攻守兼备</a>
+										<a href="">速度灵活</a>
+									</dd>
+								</dl>
+								
+								<dl>
+									<dt><a href="">羽毛球鞋</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战靴</a>
+										<a href="">199元以下</a>
+										<a href="">团队款</a>
+										<a href="">稳定型</a>
+										<a href="">速度型</a>
+										<a href="">宽宣型</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球服</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">99元以下</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女皇战袍</a>
+										<a href="">团队款</a>
+										<a href="">短裤</a>
+										<a href="">短袖上衣</a>
+										<a href="">国羽战衣</a>
+										<a href="">明星赞助款</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球</a></dt>
+									<dd>
+										<a href="">亚狮龙</a>
+										<a href="">诺克塞斯</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										
+									</dd>
+									<dd>
+										<a href="">50-70元</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">俱乐部特供</a>
+										<a href="">尼龙球</a>
+										<a href="">耐打球</a>
+										<a href="">国际比赛用球</a>
+										<a href="">76速</a>
+										<a href="">77速</a>
+										<a href="">78速</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球包</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女包</a>
+										<a href="">团队款</a>
+										<a href="">球星赞助款</a>
+										<a href="">双肩包</a>
+										<a href="">3只装</a>
+										<a href="">6只装</a>
+										<a href="">9只装</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球线</a></dt>
+									<dd>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">波力</a>
+										<a href="">高神</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">暴力型</a>
+										<a href="">控球型</a>
+										<a href="">BG65</a>
+										<a href="">BG95</a>
+										<a href="">BG80P</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球配件</a></dt>
+									<dd>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">泰昂</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">羽毛球袜</a>
+										<a href="">光面手胶</a>
+										<a href="">压纹手胶</a>
+										<a href="">打孔手胶</a>
+										<a href="">龙骨手胶</a>
+										<a href="">毛巾手胶</a>
+										<a href="">内握手胶</a>
+										<a href="">毛巾</a>
+										<a href="">鞋垫</a>
+										<a href="">水壶</a>
+										<a href="">球拍DIY</a>
+									</dd>
+								</dl>
+							</div>
+							<div class="bb">
+								<p>推荐品牌</p>
+								<dl>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+								</dl>
+								<p><a href="">更多品牌</a></p>
+							</div>
+						</div>
+					</li>
+<!--55555555555555555555555第五个li-->					
+					<li>
+						<div class="in">
+							<h3>
+								<i class="integra"></i>
+								<a href="goods.html" target="_blank">网球装备</a>
+								<i class="integra"></i>
+							</h3>
+							<p>
+								<a href="##">网球拍</a>
+								<a href="##">网球包</a>
+								<a href="##">网球</a>
+							</p>
+						</div>
+						<div class="hid5">
+							<div class="tt">
+								<dl>
+									<dt><a href="">羽毛球拍</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+										<a href="">凯胜</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战拍</a>
+										<a href="">入门级</a>
+										<a href="">进阶中级</a>
+										<a href="">专业高级</a>
+										<a href="">暴力进攻</a>
+										<a href="">攻守兼备</a>
+										<a href="">速度灵活</a>
+									</dd>
+								</dl>
+								
+								<dl>
+									<dt><a href="">羽毛球鞋</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战靴</a>
+										<a href="">199元以下</a>
+										<a href="">团队款</a>
+										<a href="">稳定型</a>
+										<a href="">速度型</a>
+										<a href="">宽宣型</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球服</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">99元以下</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女皇战袍</a>
+										<a href="">团队款</a>
+										<a href="">短裤</a>
+										<a href="">短袖上衣</a>
+										<a href="">国羽战衣</a>
+										<a href="">明星赞助款</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球</a></dt>
+									<dd>
+										<a href="">亚狮龙</a>
+										<a href="">诺克塞斯</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										
+									</dd>
+									<dd>
+										<a href="">50-70元</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">俱乐部特供</a>
+										<a href="">尼龙球</a>
+										<a href="">耐打球</a>
+										<a href="">国际比赛用球</a>
+										<a href="">76速</a>
+										<a href="">77速</a>
+										<a href="">78速</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球包</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女包</a>
+										<a href="">团队款</a>
+										<a href="">球星赞助款</a>
+										<a href="">双肩包</a>
+										<a href="">3只装</a>
+										<a href="">6只装</a>
+										<a href="">9只装</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球线</a></dt>
+									<dd>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">波力</a>
+										<a href="">高神</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">暴力型</a>
+										<a href="">控球型</a>
+										<a href="">BG65</a>
+										<a href="">BG95</a>
+										<a href="">BG80P</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球配件</a></dt>
+									<dd>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">泰昂</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">羽毛球袜</a>
+										<a href="">光面手胶</a>
+										<a href="">压纹手胶</a>
+										<a href="">打孔手胶</a>
+										<a href="">龙骨手胶</a>
+										<a href="">毛巾手胶</a>
+										<a href="">内握手胶</a>
+										<a href="">毛巾</a>
+										<a href="">鞋垫</a>
+										<a href="">水壶</a>
+										<a href="">球拍DIY</a>
+									</dd>
+								</dl>
+							</div>
+							<div class="bb">
+								<p>推荐品牌</p>
+								<dl>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+								</dl>
+								<p><a href="">更多品牌</a></p>
+							</div>
+						</div>
+					</li>
+<!--666666666666666666666第六个li-->					
+					<li>
+						<div class="in">
+							<h3>
+								<i class="integra"></i>
+								<a href="goods.html" target="_blank">综合训练装备</a>
+								<i class="integra"></i>
+							</h3>
+							<p>
+								<a href="##">篮球</a>
+								<a href="##">足球</a>
+								<a href="##">护具</a>
+								<a href="##">美津浓</a>
+							</p>
+						</div>
+						<div class="hid6">
+							<div class="tt">
+								<dl>
+									<dt><a href="">羽毛球拍</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+										<a href="">凯胜</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战拍</a>
+										<a href="">入门级</a>
+										<a href="">进阶中级</a>
+										<a href="">专业高级</a>
+										<a href="">暴力进攻</a>
+										<a href="">攻守兼备</a>
+										<a href="">速度灵活</a>
+									</dd>
+								</dl>
+								
+								<dl>
+									<dt><a href="">羽毛球鞋</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战靴</a>
+										<a href="">199元以下</a>
+										<a href="">团队款</a>
+										<a href="">稳定型</a>
+										<a href="">速度型</a>
+										<a href="">宽宣型</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球服</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">99元以下</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女皇战袍</a>
+										<a href="">团队款</a>
+										<a href="">短裤</a>
+										<a href="">短袖上衣</a>
+										<a href="">国羽战衣</a>
+										<a href="">明星赞助款</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球</a></dt>
+									<dd>
+										<a href="">亚狮龙</a>
+										<a href="">诺克塞斯</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										
+									</dd>
+									<dd>
+										<a href="">50-70元</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">俱乐部特供</a>
+										<a href="">尼龙球</a>
+										<a href="">耐打球</a>
+										<a href="">国际比赛用球</a>
+										<a href="">76速</a>
+										<a href="">77速</a>
+										<a href="">78速</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球包</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女包</a>
+										<a href="">团队款</a>
+										<a href="">球星赞助款</a>
+										<a href="">双肩包</a>
+										<a href="">3只装</a>
+										<a href="">6只装</a>
+										<a href="">9只装</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球线</a></dt>
+									<dd>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">波力</a>
+										<a href="">高神</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">暴力型</a>
+										<a href="">控球型</a>
+										<a href="">BG65</a>
+										<a href="">BG95</a>
+										<a href="">BG80P</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球配件</a></dt>
+									<dd>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">泰昂</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">羽毛球袜</a>
+										<a href="">光面手胶</a>
+										<a href="">压纹手胶</a>
+										<a href="">打孔手胶</a>
+										<a href="">龙骨手胶</a>
+										<a href="">毛巾手胶</a>
+										<a href="">内握手胶</a>
+										<a href="">毛巾</a>
+										<a href="">鞋垫</a>
+										<a href="">水壶</a>
+										<a href="">球拍DIY</a>
+									</dd>
+								</dl>
+							</div>
+							<div class="bb">
+								<p>推荐品牌</p>
+								<dl>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+								</dl>
+								<p><a href="">更多品牌</a></p>
+							</div>
+						</div>
+					</li>
+<!--77777777777777777777777第七个li-->					
+					<li>
+						<div class="in">
+							<h3>
+								<i class="integra"></i>
+								<a href="goods.html" target="_blank">滑雪装备</a>
+								<i class="integra"></i>
+							</h3>
+							<p>
+								<a href="##">滑雪板</a>
+								<a href="##">滑雪服</a>
+								<a href="##">滑雪鞋</a>
+							</p>
+						</div>
+						<div class="hid7">
+							<div class="tt">
+								<dl>
+									<dt><a href="">羽毛球拍</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+										<a href="">凯胜</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战拍</a>
+										<a href="">入门级</a>
+										<a href="">进阶中级</a>
+										<a href="">专业高级</a>
+										<a href="">暴力进攻</a>
+										<a href="">攻守兼备</a>
+										<a href="">速度灵活</a>
+									</dd>
+								</dl>
+								
+								<dl>
+									<dt><a href="">羽毛球鞋</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">明星赞助款</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女神战靴</a>
+										<a href="">199元以下</a>
+										<a href="">团队款</a>
+										<a href="">稳定型</a>
+										<a href="">速度型</a>
+										<a href="">宽宣型</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球服</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">99元以下</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女皇战袍</a>
+										<a href="">团队款</a>
+										<a href="">短裤</a>
+										<a href="">短袖上衣</a>
+										<a href="">国羽战衣</a>
+										<a href="">明星赞助款</a>
+										<a href="">儿童款</a>
+										<a href="">断码清仓特价</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球</a></dt>
+									<dd>
+										<a href="">亚狮龙</a>
+										<a href="">诺克塞斯</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										
+									</dd>
+									<dd>
+										<a href="">50-70元</a>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">俱乐部特供</a>
+										<a href="">尼龙球</a>
+										<a href="">耐打球</a>
+										<a href="">国际比赛用球</a>
+										<a href="">76速</a>
+										<a href="">77速</a>
+										<a href="">78速</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球包</a></dt>
+									<dd>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">波力</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">女包</a>
+										<a href="">团队款</a>
+										<a href="">球星赞助款</a>
+										<a href="">双肩包</a>
+										<a href="">3只装</a>
+										<a href="">6只装</a>
+										<a href="">9只装</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球线</a></dt>
+									<dd>
+										<a href="">尤尼克斯</a>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">波力</a>
+										<a href="">高神</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">暴力型</a>
+										<a href="">控球型</a>
+										<a href="">BG65</a>
+										<a href="">BG95</a>
+										<a href="">BG80P</a>
+									</dd>
+								</dl>
+								<dl>
+									<dt><a href="">羽毛球配件</a></dt>
+									<dd>
+										<a href="">李宁</a>
+										<a href="">胜利</a>
+										<a href="">尤尼克斯</a>
+										<a href="">泰昂</a>
+									</dd>
+									<dd>
+										<a href="">小编推荐</a>
+										<a href="">特价</a>
+										<a href="">羽毛球袜</a>
+										<a href="">光面手胶</a>
+										<a href="">压纹手胶</a>
+										<a href="">打孔手胶</a>
+										<a href="">龙骨手胶</a>
+										<a href="">毛巾手胶</a>
+										<a href="">内握手胶</a>
+										<a href="">毛巾</a>
+										<a href="">鞋垫</a>
+										<a href="">水壶</a>
+										<a href="">球拍DIY</a>
+									</dd>
+								</dl>
+							</div>
+							<div class="bb">
+								<p>推荐品牌</p>
+								<dl>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+									<dd><a href=""><i class="integra1"></i></a></dd>
+								</dl>
+								<p><a href="">更多品牌</a></p>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<ul class="nav">
+				<li><a href="">首页</a></li>
+				<li><a href="">羽毛球</a></li>
+				<li><a href="">乒乓球</a></li>
+				<li><a href="">跑步</a></li>
+				<li><a href="">户外</a></li>
+				<li><a href="">网球</a></li>
+				<li><a href="">特卖</a></li>
+				<li><a href="">团购</a></li>
+				<li><a href="">品牌</a></li>
+				<li><a href="">咨询</a></li>
+				<li><a href="">APP</a></li>
+				<li><a href="">驴友铺子</a></li>
+			</ul>
+		</div>
+	</nav>
+<!--轮播图加登陆-->
+	<div id="banner">
+		<div class="margin">
+			<div class="lunbo">
+				<div class="imgbox">
+					<img src="img/banner1.jpg"/>
+					<img src="img/banner2.jpg"/>
+					<img src="img/banner3.jpg"/>
+					<img src="img/banner4.jpg"/>
+					<img src="img/banner5.jpg"/>
+					<img src="img/banner6.jpg"/>
+					<img src="img/banner7.jpg"/>
+					<img src="img/banner8.jpg"/>
+					<img src="img/banner9.jpg"/>
+				</div>
+				<div class="btn">
+					<input type="button" name="but1" class="left" value="<<<" />
+					<input type="button" name="but2" class="right" value=">>>" />
+				</div>
+			</div>
+			<div class="rig">
+				<div class="top">
+					<div class="hi">
+						<i class="integra"></i>
+						<p>
+							<span>Hi,亲爱的优友</span>
+							<br/>
+							<a href="">登陆</a>
+							&nbsp;
+							<a href="">注册</a>
+						</p>
+					</div>
+					<div class="new">
+						<a href="">新人福利</a>
+						<a href="">优个会员</a>
+					</div>
+				</div>
+				<div class="cen">
+					<p>
+						<a href="" class="huo"><span>热门活动</span></a>
+						<u>|</u>
+						<a href="" class="kuai"><span>优个快讯</span></a>
+					</p>
+					<div class="bott">
+						<ul class="re">
+							<li><a href="">2019优个网热卖装备排行榜（优个排行榜第15期）权威发布!</a></li>
+							<li><a href="">优个网-蝴蝶品牌官方授权商城</a></li>
+							<li><a href="">高颜值又能打的双肩包！想换包的你看一下</a></li>
+							<li><a href="">进攻犀利易上手！威克多TK-霹雳来啦</a></li>
+							<li><a href="">一波美津浓乒鞋来袭！专业&amp;大气</a></li>
+							<li><a href="">挺拔战神底板、亚萨卡竞技者！乒乓鲜货第十九期来啦</a></li>
+							<li><a href="">石宇奇同款球包、88元羽鞋、世锦赛国羽战衣！羽毛球鲜货第二十期</a></li>
+						</ul>
+						<!--<ul class="you">
+							<li><a href="">优个网支持支付宝花呗分期付款!</a></li>
+							<li><a href="">驴友铺子—优个网的新伙伴</a></li>
+							<li><a href="">新人专享礼：注册领50元优惠券</a></li>
+							<li><a href="">用优个APP:每天抽奖，赚优币，拿优惠券！</a></li>
+							<li><a href="">又拿奖！优个网荣获红双喜“2018年度最佳合作伙伴”奖</a></li>
+							<li><a href="">撒花！优个网喜获斯帝卡“优秀合作伙伴”奖</a></li>
+							<li><a href="">大和TSP品牌和优个网再次续约</a></li>
+						</ul>-->
+					</div>
+				</div>
+				<div class="bot">
+					<a href=""><i class="integra"></i><span>签到领优币</span></a>
+					<a href=""><i class="integra"></i><span>看口碑选装备</span></a>
+					<a href=""><i class="integra"></i><span>会员专享特价</span></a>
+					<a href=""><i class="integra"></i><span>OMO线下店</span></a>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--运动选项卡-->
+	<div id="spt">
+		<div class="margin">
+			<div class="left">
+				<u class="tit floor"><img src="img/tit1.jpg"/></u>
+				<div class="zi">
+					<h3>最热大牌</h3>
+				</div>
+				<div class="nav">
+					<ul>
+						<li>
+							<a href=""><img src="img/lg1.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg2.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg3.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg4.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg5.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg6.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg7.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg8.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg9.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg10.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg11.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg12.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg13.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg14.png"/></a>
+						</li>
+					</ul>
+					<p><a href="">进入品牌街>></a></p>
+				</div>
+			</div>
+			<div class="mid">
+				<ul class="tit zhu">
+					<li class="dangqian" id="jb">劲爆新品<b></b></li>
+					<li id="tj">特价疯抢<b></b></li>
+					<li id="rm">热门团购<b></b></li>
+					<li id="sh">实惠套装<b></b></li>
+				</ul>
+				<div class="goods">
+					<ul class="go">
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a1.jpg"></a>	
+							</div>
+							<div class="mi">
+								<a href="">德国阳光DR.FREEZE乒乓球套胶防弧套胶超轻薄海绵防弧胶皮球拍</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥150</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a2.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">胜利VICTOR 羽毛球拍 TK-霹雳 (突击霹雳 TK霹雳）初中级进阶易上手全碳素球拍 低价高配 进攻犀利</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥365</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a3.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">李宁羽毛球鞋 AYAP004 桃木粉/光芒蓝/标准白（突袭II）女款专业羽毛球鞋（爆款突袭升级版）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥599</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a4.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">尤尼克斯YONEX羽毛球包 BAG3926BCR 六支装矩形包（可提，也可以背）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥198</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a5.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">胜利VICTOR 羽毛球双肩背包 BRCY-200(CY200 CY-200) 霜白/夏威夷蓝 蔡赟系列运动包 男女款运动大容量</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥299</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a6.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">塞维卡SAVIGA  长胶单胶皮saviga v 赛维卡软质专业版</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥96</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a7.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">尤尼克斯YONEX短袖T恤 10020LD（超级丹卡通服）黑色 限量发售</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥188</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a8.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">尤尼克斯YONEX羽毛球鞋 SHB210WCR 金色 宽楦型 超轻透气防滑</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥179</s>
+							</div>
+						</li>
+					</ul>
+					<ul class="go">
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b1.jpg"></a>	
+							</div>
+							<div class="mi">
+								<a href="">李宁羽毛球鞋 AYAP019（锋影PRO4.0）男款专业羽毛球鞋（李俊慧、石宇奇赞助款）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥240</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b2.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">李宁羽毛球鞋 AYAP013-4（大圣）男款专业羽毛球鞋（7大科技亮点，带来全新体验）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥135</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b3.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">骄猛XIOM 79-037 唯佳正胶 VEGA Spo</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥239</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b4.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">凯胜KASON 羽毛球鞋男款 FYTM013-1 中青队赞助品牌 电光紫/荧光耀橙 透气网布带来干爽体验（高性价比之选）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥133</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b5.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">KASON凯胜男款专业羽毛球运动服 短袖比赛上衣速干透气FAYK033-2 红色</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥199</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b6.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">骄猛Xiom 唯佳顶级（金V）Vega Tour新品套胶79-060，碳素海绵，动感摩擦，更强旋转攻击力！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥196</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b7.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">蝴蝶L1乒乓球鞋L-1 红/黑配 Butterfly LEZOLINE-1-0102 停产清仓特惠中!</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥148</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b8.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">斯帝卡乒乓底板 碳素90 Carbonado 90（黑钻90）（底劲浑厚，弧线低平）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥229</s>
+							</div>
+						</li>
+					</ul>
+					<ul class="go">
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c1.jpg"></a>	
+							</div>
+							<div class="mi">
+								<a href="">胜利Victor 羽毛球拍 ARS-70K(神速70K) 兵贵神速 挑战速度拍的新高度 现货发售！！现在团购价799元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥250</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c2.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">亚瑟士Asics 跑步鞋 GEL-PULSE 10 男款缓冲跑步鞋,原优个价488元，现在团购价439元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥165</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c3.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">Asics亚瑟士 GT-2000 7 公路稳定慢跑鞋 男 1011A262-001 黑/金 热销款式，优个网小编推荐款,原优个价699元，现在团购价629元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥129</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c4.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">海尔斯HEALTH跑步鞋 776S 黑色（夜行者跑鞋，鞋底更耐磨） 适合4小时左右的全马跑友！原优个价239元，现在团购价199元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥128</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c5.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">胜利VICTOR 羽毛球鞋 SH-A501D中性款男女款 超透气（团队定制之选！） 经典款式，防滑耐磨，原优个价179元，现在团购价169元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥199</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c6.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">红双喜狂飙8套胶（狂8，狂飚8）反胶套胶,新一代高粘性速度型套胶。2人即可成团，优个价126元，现团购价115元</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥196</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c7.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">红双喜 国套狂飙3特制 团购价仅售699元！一片难求，真正国手使用的套胶 数量有限 红双喜公司发货</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥138</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c8.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">红双喜 国狂3（国狂三蓝海绵，国套狂飙3）反胶套胶，原优个价499元，现团购价449元.粘性大，旋转强，与众不同近乎完美！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥139</s>
+							</div>
+						</li>
+					</ul>
+					<ul class="go">
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d1.jpg"></a>	
+							</div>
+							<div class="mi">
+								<a href="">凯胜kason羽毛球拍 Force T110 黑红/黑蓝 初学耐用双打对拍 两支装球拍（已穿线）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥140</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d2.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">范斯蒂克运动套装 MAT1815901 男 短袖 短裤（适合跑步/羽毛球/乒乓球等多项运动）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥145</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d3.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">199元羽毛球对拍套装：两支拍配球套装（波力闪电33 闪电55各1支配球1筒），全碳素球拍，室内室外均可使用，家庭组合装</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥169</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d4.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">299元羽毛球对拍套装：艾迪宝CP333S两支已穿线+波力传奇1号羽毛球1筒12只装 室内室外训练至爱之选</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥168</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d5.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">亚狮龙6号球 RSL NO.6 羽毛球 10筒装 鸭毛（RSL6号亚6 超稳定性能，超受球友欢迎的羽球）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥149</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d6.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">亚狮龙7号RSL NO.7 羽毛球 10筒组合装 12只/筒（RSL7亚7 畅销款排行榜第一的羽毛球）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥136</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d7.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">中端进阶款快攻弧圈套餐（红双喜H301底板+狂飙3套胶+天极3套胶）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥128</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d8.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">亚狮龙5号RSL NO.5 羽毛球 20筒组合装 （RSL5号亚5 超稳定性能，高级玩家的钟爱）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥239</s>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<div class="top">
+					<a><img src="img/you1.jpg"/></a>
+				</div>
+				<div class="bot">
+					<a><img src="img/you2.jpg"/></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="equip">
+		<div class="margin">
+			<a><img src="img/z1.png"/></a>
+			<a><img src="img/z2.png"/></a>
+			<a><img src="img/z3.png"/></a>
+		</div>	
+	</div>
+	<div id="spt">
+		<div class="margin">
+			<div class="left">
+				<u class="tit floor"><img src="img/p1.jpg"/></u>
+				<div class="zi">
+					<h3>最热大牌</h3>
+				</div>
+				<div class="nav">
+					<ul>
+						<li>
+							<a href=""><img src="img/lg1.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg2.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg3.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg4.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg5.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg6.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg7.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg8.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg9.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg10.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg11.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg12.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg13.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg14.png"/></a>
+						</li>
+					</ul>
+					<p><a href="">进入品牌街>></a></p>
+				</div>
+			</div>
+			<div class="mid">
+				<ul class="tit">
+					<li class="dangqian">劲爆新品<b></b></li>
+					<li id="tj">特价疯抢<b></b></li>
+					<li id="rm">热门团购<b></b></li>
+					<li id="sh">实惠套装<b></b></li>
+				</ul>
+				<div class="goods">
+					<ul class="go">
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a1.jpg"></a>	
+							</div>
+							<div class="mi">
+								<a href="">德国阳光DR.FREEZE乒乓球套胶防弧套胶超轻薄海绵防弧胶皮球拍</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥150</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a2.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">胜利VICTOR 羽毛球拍 TK-霹雳 (突击霹雳 TK霹雳）初中级进阶易上手全碳素球拍 低价高配 进攻犀利</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥365</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a3.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">李宁羽毛球鞋 AYAP004 桃木粉/光芒蓝/标准白（突袭II）女款专业羽毛球鞋（爆款突袭升级版）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥599</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a4.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">尤尼克斯YONEX羽毛球包 BAG3926BCR 六支装矩形包（可提，也可以背）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥198</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a5.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">胜利VICTOR 羽毛球双肩背包 BRCY-200(CY200 CY-200) 霜白/夏威夷蓝 蔡赟系列运动包 男女款运动大容量</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥299</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a6.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">塞维卡SAVIGA  长胶单胶皮saviga v 赛维卡软质专业版</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥96</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a7.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">尤尼克斯YONEX短袖T恤 10020LD（超级丹卡通服）黑色 限量发售</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥188</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/a8.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">尤尼克斯YONEX羽毛球鞋 SHB210WCR 金色 宽楦型 超轻透气防滑</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥179</s>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<div class="top">
+					<a><img src="img/you1.jpg"/></a>
+				</div>
+				<div class="bot">
+					<a><img src="img/you2.jpg"/></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="spt">
+		<div class="margin">
+			<div class="left">
+				<u class="tit floor"><img src="img/p2.jpg"/></u>
+				<div class="zi">
+					<h3>最热大牌</h3>
+				</div>
+				<div class="nav">
+					<ul>
+						<li>
+							<a href=""><img src="img/lg1.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg2.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg3.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg4.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg5.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg6.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg7.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg8.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg9.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg10.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg11.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg12.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg13.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg14.png"/></a>
+						</li>
+					</ul>
+					<p><a href="">进入品牌街>></a></p>
+				</div>
+			</div>
+			<div class="mid">
+				<ul class="tit">
+					<li class="dangqian">劲爆新品<b></b></li>
+					<li id="tj">特价疯抢<b></b></li>
+					<li id="rm">热门团购<b></b></li>
+					<li id="sh">实惠套装<b></b></li>
+				</ul>
+				<div class="goods">
+					<ul class="go">
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b1.jpg"></a>	
+							</div>
+							<div class="mi">
+								<a href="">李宁羽毛球鞋 AYAP019（锋影PRO4.0）男款专业羽毛球鞋（李俊慧、石宇奇赞助款）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥240</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b2.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">李宁羽毛球鞋 AYAP013-4（大圣）男款专业羽毛球鞋（7大科技亮点，带来全新体验）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥135</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b3.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">骄猛XIOM 79-037 唯佳正胶 VEGA Spo</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥239</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b4.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">凯胜KASON 羽毛球鞋男款 FYTM013-1 中青队赞助品牌 电光紫/荧光耀橙 透气网布带来干爽体验（高性价比之选）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥133</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b5.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">KASON凯胜男款专业羽毛球运动服 短袖比赛上衣速干透气FAYK033-2 红色</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥199</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b6.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">骄猛Xiom 唯佳顶级（金V）Vega Tour新品套胶79-060，碳素海绵，动感摩擦，更强旋转攻击力！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥196</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b7.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">蝴蝶L1乒乓球鞋L-1 红/黑配 Butterfly LEZOLINE-1-0102 停产清仓特惠中!</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥148</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/b8.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">斯帝卡乒乓底板 碳素90 Carbonado 90（黑钻90）（底劲浑厚，弧线低平）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥229</s>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<div class="top">
+					<a><img src="img/you1.jpg"/></a>
+				</div>
+				<div class="bot">
+					<a><img src="img/you2.jpg"/></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="spt">
+		<div class="margin">
+			<div class="left">
+				<u class="tit floor"><img src="img/p3.jpg"/></u>
+				<div class="zi">
+					<h3>最热大牌</h3>
+				</div>
+				<div class="nav">
+					<ul>
+						<li>
+							<a href=""><img src="img/lg1.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg2.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg3.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg4.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg5.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg6.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg7.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg8.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg9.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg10.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg11.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg12.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg13.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg14.png"/></a>
+						</li>
+					</ul>
+					<p><a href="">进入品牌街>></a></p>
+				</div>
+			</div>
+			<div class="mid">
+				<ul class="tit">
+					<li class="dangqian">劲爆新品<b></b></li>
+					<li id="tj">特价疯抢<b></b></li>
+					<li id="rm">热门团购<b></b></li>
+					<li id="sh">实惠套装<b></b></li>
+				</ul>
+				<div class="goods">
+					<ul class="go">
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c1.jpg"></a>	
+							</div>
+							<div class="mi">
+								<a href="">胜利Victor 羽毛球拍 ARS-70K(神速70K) 兵贵神速 挑战速度拍的新高度 现货发售！！现在团购价799元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥250</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c2.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">亚瑟士Asics 跑步鞋 GEL-PULSE 10 男款缓冲跑步鞋,原优个价488元，现在团购价439元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥165</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c3.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">Asics亚瑟士 GT-2000 7 公路稳定慢跑鞋 男 1011A262-001 黑/金 热销款式，优个网小编推荐款,原优个价699元，现在团购价629元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥129</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c4.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">海尔斯HEALTH跑步鞋 776S 黑色（夜行者跑鞋，鞋底更耐磨） 适合4小时左右的全马跑友！原优个价239元，现在团购价199元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥128</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c5.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">胜利VICTOR 羽毛球鞋 SH-A501D中性款男女款 超透气（团队定制之选！） 经典款式，防滑耐磨，原优个价179元，现在团购价169元，团购更省钱！！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥199</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c6.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">红双喜狂飙8套胶（狂8，狂飚8）反胶套胶,新一代高粘性速度型套胶。2人即可成团，优个价126元，现团购价115元</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥196</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c7.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">红双喜 国套狂飙3特制 团购价仅售699元！一片难求，真正国手使用的套胶 数量有限 红双喜公司发货</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥138</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/c8.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">红双喜 国狂3（国狂三蓝海绵，国套狂飙3）反胶套胶，原优个价499元，现团购价449元.粘性大，旋转强，与众不同近乎完美！</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥139</s>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<div class="top">
+					<a><img src="img/you1.jpg"/></a>
+				</div>
+				<div class="bot">
+					<a><img src="img/you2.jpg"/></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="spt">
+		<div class="margin">
+			<div class="left">
+				<u class="tit floor"><img src="img/p4.jpg"/></u>
+				<div class="zi">
+					<h3>最热大牌</h3>
+				</div>
+				<div class="nav">
+					<ul>
+						<li>
+							<a href=""><img src="img/lg1.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg2.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg3.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg4.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg5.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg6.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg7.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg8.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg9.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg10.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg11.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg12.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg13.png"/></a>
+						</li>
+						<li>
+							<a href=""><img src="img/lg14.png"/></a>
+						</li>
+					</ul>
+					<p><a href="">进入品牌街>></a></p>
+				</div>
+			</div>
+			<div class="mid">
+				<ul class="tit">
+					<li class="dangqian">劲爆新品<b></b></li>
+					<li id="tj">特价疯抢<b></b></li>
+					<li id="rm">热门团购<b></b></li>
+					<li id="sh">实惠套装<b></b></li>
+				</ul>
+				<div class="goods">
+					<ul class="go">
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d1.jpg"></a>	
+							</div>
+							<div class="mi">
+								<a href="">凯胜kason羽毛球拍 Force T110 黑红/黑蓝 初学耐用双打对拍 两支装球拍（已穿线）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥140</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d2.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">范斯蒂克运动套装 MAT1815901 男 短袖 短裤（适合跑步/羽毛球/乒乓球等多项运动）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥145</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d3.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">199元羽毛球对拍套装：两支拍配球套装（波力闪电33 闪电55各1支配球1筒），全碳素球拍，室内室外均可使用，家庭组合装</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥169</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d4.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">299元羽毛球对拍套装：艾迪宝CP333S两支已穿线+波力传奇1号羽毛球1筒12只装 室内室外训练至爱之选</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥168</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d5.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">亚狮龙6号球 RSL NO.6 羽毛球 10筒装 鸭毛（RSL6号亚6 超稳定性能，超受球友欢迎的羽球）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥149</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d6.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">亚狮龙7号RSL NO.7 羽毛球 10筒组合装 12只/筒（RSL7亚7 畅销款排行榜第一的羽毛球）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥136</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d7.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">中端进阶款快攻弧圈套餐（红双喜H301底板+狂飙3套胶+天极3套胶）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥128</s>
+							</div>
+						</li>
+						<li>
+							<div class="to">
+								<a href=""><img class="lazy_1" src="img/d8.jpg"></a>
+							</div>
+							<div class="mi">
+								<a href="">亚狮龙5号RSL NO.5 羽毛球 20筒组合装 （RSL5号亚5 超稳定性能，高级玩家的钟爱）</a>
+							</div>
+							<div class="bo">
+								<u style="color:#999;">疯抢价：</u>
+								<s class="fontColor">￥239</s>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="right">
+				<div class="top">
+					<a><img src="img/you1.jpg"/></a>
+				</div>
+				<div class="bot">
+					<a><img src="img/you2.jpg"/></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="lou">
+		<ul>
+			<li>顶楼</li>
+			<li>一楼</li>
+			<li>二楼</li>
+			<li>三楼</li>
+			<li>四楼</li>
+			<li>五楼</li>
+		</ul>
+	</div>
+	<div id="foot">
+		<div class="margin">
+			<div class="tt">
+				<a href="">首页</a>|
+				<a href="">关于我们</a>|
+				<a href="">联系我们</a>|
+				<a href="">加入优个网</a>|
+				<a href="">驴友铺子</a>|
+				<a href="">友情链接</a>|
+				<a href="">校园代理</a>|
+				<a href="">手机优个</a>|
+				<a href="">热销型号</a>|
+				<a href="">商品大全</a>|
+				<a href="">网站地图</a>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div class="top">
+			<p>Copyright® 优个网 Copyright© 2008-2019 北京优个网信息技术有限公司 版权所有 京ICP备05062157号<a href="">京公网安备 11010502008866号</a></p>
+		</div>
+		<div class="cen">
+			<p>门店：北京市朝阳区大屯路第五大道商城二楼西通道 219-15号<a href=""> 乘车路线</a><span>服务热线：400-0996-400</span></p>
+		</div>
+		<ul>
+			<li>友情链接：</li>
+			<li><a href="">爱乒乓</a></li>
+			<li><a href="">鲜花</a></li>
+			<li><a href="">羽毛球直播</a></li>
+			<li><a href="">淘宝优惠券</a></li>
+			<li><a href="">免费算命</a></li>
+			<li><a href="">西安新闻网</a></li>
+			<li><a href="">扬州装修</a></li>
+			<li><a href="">上品折扣</a></li>
+			<li><a href="">微商货源</a></li>
+			<li><a href="">爱情短信</a></li>
+			<li><a href="">小品台词</a></li>
+			<li><a href="">建筑信息网</a></li>
+			<li><a href="">定制文化衫</a></li>
+			<li><a href="">公路检验工程师</a></li>
+			<li><a href="">胶南招聘</a></li>
+			<li><a href="">苏州分类信息网</a></li>
+			<li><a href="">智能家居</a></li>
+			<li><a href="">合肥找律师</a></li>
+			<li><a href="">F1上海站</a></li>
+			<li><a href="">句子大全</a></li>
+			<li><a href="">杂志网</a></li>
+			<li><a href="">故事会</a></li>
+			<li><a href="">电动汽车价格</a></li>
+			<li><a href="">中国医疗人才网</a></li>
+			<li><a href="">品牌排行榜</a></li>
+			<li><a href="">直播吧</a></li>
+			<li><a href="">景观网</a></li>
+			<li><a href="">健身</a></li>
+			<li><a href="">手表品牌排行榜</a></li>
+			<li><a href="">服装批发</a></li>
+			<li><a href="">360直播</a></li>
+			<li><a href="">工作服</a></li>
+			<li><a href="">求婚创意</a></li>
+			<li><a href="">戏曲大全</a></li>
+			<li><a href="">学者网</a></li>
+			<li><a href="">手机铃声</a></li>
+			<li><a href="">鲜花</a></li>
+			<li><a href="">秋霞</a></li>
+			<li><a href="">展会网</a></li>
+			<li><a href="">乐多特价网</a></li>
+			<li><a href="">工程机械网</a></li>
+			<li><a href="">SEO</a></li>
+			<li><a href="">在线少儿英语</a></li>
+			<li><a href="">成语故事</a></li>
+			<li><a href="">碳纤维布</a></li>
+			<li><a href="">班服</a></li>
+			<li><a href="">英语培训</a></li>
+			<li><a href="">律师</a></li>
+			<li><a href="">NBA直播吧</a></li>
+			<li><a href="">中药材</a></li>
+			<li><a href="">少儿英语培训</a></li>
+			<li><a href="">网上英语培训</a></li>
+			<li><a href="">好花网</a></li>
+			<li><a href="">足球比分</a></li>
+			<li><a href="">广州装修公司</a></li>
+			<li><a href="">集成吊顶</a></li>
+			<li><a href="">快恢复二极管</a></li>
+			<li><a href="">猎头公司排名</a></li>
+			<li><a href="">网上兼职</a></li>
+			<li><a href="">八百方网上药店</a></li>
+			<li><a href="">鱼爪网</a></li>
+			<li><a href="">重庆律师</a></li>
+			<li><a href="">日企招聘</a></li>
+			<li><a href="">海淘</a></li>
+			<li><a href="">艺术留学中介</a></li>
+			<li><a href="">流量卡</a></li>
+			<li><a href="">摔角网</a></li>
+		</ul>
+		<div class="bot">
+			<a href=""><img src="img/t4.jpg"/></a>
+			<a href=""><img src="img/t1.jpg"/></a>
+			<a href=""><img src="img/t2.jpg"/></a>
+			<a href=""><img src="img/t3.jpg"/></a>
+			<a href=""><img src="img/t5.png"/></a>
+		</div>
+	</div>
+	
+</body>
+<script src="libs/jquery.1.12.4.js" ></script>
+<script src="libs/banner1.0.js" ></script>
+<script type="text/javascript">
+//	轮播图
+	$(".lunbo").banner({
+        items:$(".lunbo").find("img"),   
+        left:$(".lunbo").find(".left"),  
+        right:$(".lunbo").find(".right"), 
+        list:true,
+        autoPlay:true,                     
+        delayTime:2000,                     
+        moveTime:200,                       
+        index:0,                            
+   })
+//分页加图片渲染
+	$("ul.zhu").on("mouseenter","li",function(){
+		$(this).addClass("dangqian").siblings().removeClass("dangqian");
+		$(".go").eq($(this).index()).show().siblings().hide();
+	})
+//楼层
+	$("#lou ul").children("li").click(function(){
+		$("html").stop().animate({
+	        scrollTop:$('.floor').eq($(this).index()).offset().top
+	     })
+	})
+
+</script>
+</html>

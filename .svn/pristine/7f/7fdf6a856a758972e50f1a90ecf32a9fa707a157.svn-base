@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/public.css"/>
+	<link rel="stylesheet" type="text/css" href="css/details.css"/>
+</head>
+<body>
+	<div id="top" class="floor">
+		<div class="margin">
+			<div class="left">
+				<p class="p1">
+					<span>您好，欢迎光临优个网！</span>
+					<a href="login.html">请登录</a>
+					<a href="register.html">注册有惊喜</a>
+				</p>
+				<p class="p2" style="display: none;">欢迎尊贵的<span>XXX</span>用户访问本网站,<a href="#">退出</a></p>
+				<a href="##">驴友铺子</a>
+				<a href="##">OMO线下店</a>
+			</div>
+			<ul class="right">
+				<li>
+					<div class="over1">
+						<i class="integra"></i>
+						<a href="##">我的优个</a>
+						<i class="integra"></i>
+					</div>
+					<div class="hide1">
+						<p>
+							<span>您好，欢迎光临优个网！</span>
+							<a href="##">退出</a>
+						</p>
+						<div class="fox">
+							<dl>
+								<dd><a href="##">我的订单</a></dd>
+								<dd><a href="##">我的评论</a></dd>
+								<dd><a href="##">我的提问</a></dd>
+								<dd><a href="##">收藏的商品</a></dd>
+								<dd><a href="##">余额</a></dd>
+							</dl>
+							<dl>
+								<dd><a href="##">我的优币</a></dd>
+								<dd><a href="##">积分升级</a></dd>
+								<dd><a href="##">我的优惠劵</a></dd>
+								<dd><a href="##">免运费查询</a></dd>
+								<dd><a href="##">鸡毛信</a></dd>
+							</dl>
+						</div>
+					</div>
+				</li>
+				<li>
+					<i class="integra"></i>
+					<span>友圈我的优</span>
+				</li>
+				<li>
+					<div class="over3">
+						<i class="integra"></i>
+						<a href="#">手机优个</a>
+						<i class="integra"></i>
+					</div>
+					<dl class="hide3">
+						<dd>
+							<img src="img/v1.png"/>
+							<u>
+								<p>下载优个运动app</p>
+								<p>专享价，包裹物流随时查</p>
+								<i class="integra"></i>
+								<i class="integra"></i>
+							</u>
+						</dd>
+						<dd>
+							<img src="img/v2.png"/>
+							<u>
+								<span>优个网订阅号</span>
+								<p>随时随地查看运动知识</p>
+							</u>
+						</dd>
+						<dd>
+							<img src="img/v3.png"/>
+							<u>
+								<span>优个网服务号</span>
+								<p>在微信段直接购买装备</p>
+							</u>
+						</dd>
+					</dl>
+				</li>
+				<li>
+					<span>帮助中心</span>
+				</li>
+				<li>
+					<span>联系客服</span>
+				</li>
+				<li>
+					<a href="#">优个热线</a>
+					<div class="hide6">
+						<b>服务热线：400-0996-400</b>
+						<b>售后专线：010-51261980</b>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!--header-->
+	<header>
+		<div class="margin">
+			<a class="logo"><img src="img/logo.gif"/></a>
+			<div class="cen">
+				<div class="inp">
+					<input type="text" class="txt" value="天斧99" />
+					<input type="submit" class="sub" value="搜索" />
+				</div>
+				<div class="bot">
+					<span style="color:#f00;">热门搜索：</span>
+					<a href="" style="color:#f00;">斯帝卡立减</a>
+					<span >|</span>
+					<a href="" style="color:#f00;">疾光700</a>
+					<span>|</span>
+					<a href="" style="color:#f00;">天斧99</a>
+					<span>|</span>
+					<a href="">羽球包邮</a>
+					<span>|</span>
+					<a href="">蝴蝶王</a>
+					<span>|</span>
+					<a href="">玫瑰套</a>
+					<span>|</span>
+					<a href="">纳米7</a>
+					<span>|</span>
+					<a href="">价格表</a>
+				</div>
+			</div>
+			<div class="rig">
+				<div class="over7">
+					<b>0</b>
+					<i class="integra"></i>
+					<span>去购物车结算</span>
+				</div>
+				<div class="hide7">
+					<div class="kuang">
+						<div class="le">
+							<u>共<span>0</span>件商品</u>
+							<u>共计 <span>￥</span><span>0.00</span></u>
+						</div>
+						<div class="ri">
+							<a href="login.html">去购物车结算</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p>
+				<a href="">正品行货</a>
+				<span>|</span>
+				<a href="">满199元免运费</a>
+			</p>
+		</div>
+	</header>
+	<nav>
+		<div class="margin">
+			<div class="all">
+				<div class="top">
+					<span>全部商品</span>
+					<i></i>
+				</div>
+			</div>
+			<ul class="nav">
+				<li><a href="index.html">首页</a></li>
+				<li><a href="">羽毛球</a></li>
+				<li><a href="">乒乓球</a></li>
+				<li><a href="">跑步</a></li>
+				<li><a href="">户外</a></li>
+				<li><a href="">网球</a></li>
+				<li><a href="">特卖</a></li>
+				<li><a href="">团购</a></li>
+				<li><a href="">品牌</a></li>
+				<li><a href="">咨询</a></li>
+				<li><a href="">APP</a></li>
+				<li><a href="">驴友铺子</a></li>
+			</ul>
+		</div>
+	</nav>
+	<div id="goods">
+		<div class="margin">
+			<div class="top">
+				<a href="">羽毛球用品</a>-<a href="">羽毛球鞋</a>-<a href="">凯胜KASON</a>- 凯胜KASON 羽毛球鞋男款 FYTM013-1 中青队赞助品牌 电光紫/荧光耀橙 透气网布带来干爽体验（高性价比之选）
+			</div>
+			
+			<div class="gos">
+				<div class="lef">
+					
+					<div class="img">
+						<img src="img/b1.jpg"/>
+					</div>
+					<div class="b_box"> 
+						<img src="img/b1.jpg"/>
+					</div>
+					
+				</div>
+				
+				<div class="mid">
+					<h3>凯胜KASON 羽毛球鞋男款 FYTM013-1 中青队赞助品牌 电光紫/荧光耀橙 透气网布带来干爽体验（高性价比之选）</h3>			
+					<div class="xinghao">
+						<p>
+							<span>商品编号：</span>
+							<span id="num">1028701</span>
+						</p>
+					</div>
+					<div class="jiage">
+						<p><span>市 场 价：</span><span id="scj">￥299</span> 元</p>
+						<p>
+							<span>优个价：</span>
+							<span class="q">￥</span><span id="ygj">99</span> 元 
+						</p>
+						<p>
+							<span>运费说明：</span>
+							<span id="yf">满199免运费(大件、货到付款除外)</span>
+							<span>一般2天内发货，节假日顺延</span>
+						</p>
+					</div>
+					<div class="guige">
+						<p>
+							<span>有货规格：</span>
+							<a href="##">没有我需要的规格 点此登记</a>
+						</p>
+						<div class="cm">
+							<a href="##">红色</a>
+							<a href="##">黄色</a>
+							<a href="##">蓝色</a>
+							<a href="##">黑色</a>
+							<a href="##">白色</a>
+						</div>
+					</div>
+					
+					<div class="sl">
+						<div class="nu">数量：</div>
+						<div class="zj">
+							<a class="j">-</a>
+							<input type="text" id="txt" value="1">
+							<a class="z">+</a>
+						</div>
+					</div>
+					<div class="btn">
+						<a id="j" href="##"><img src="img/shop.png"/></a>
+						<a id="l" href="##"><img src="img/by.png"/></a>
+					</div>
+				</div>
+				<div class="rig"><img src="img/right.png"/></div>	
+			</div>
+			
+		</div>
+	</div>
+</body>
+<script src="libs/jquery.1.12.4.js"></script>
+<script src="libs/ajax.js"></script>
+<script src="libs/cookie.js"></script>
+<script src="js/details.js"></script>
+</html>
